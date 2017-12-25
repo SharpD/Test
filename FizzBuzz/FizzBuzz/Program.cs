@@ -24,7 +24,7 @@ namespace FizzBuzz
 
                 Console.Write(res + "\t");
             }
-            Console.WriteLine();
+            Console.ReadLine();
         }
     }
 }
